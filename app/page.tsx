@@ -1,8 +1,8 @@
-export default function Home() {
+export default function CommitteePage() {
   return (
     <main className="p-6">
-      <h1 className="text-3xl font-bold mb-2">Welcome to the Strata Dashboard</h1>
-      <p>Select an option from the menu to begin.</p>
+      <h1 className="text-2xl font-bold mb-2">Committee</h1>
+      <p>View roles including Treasurer, Secretary, Chairperson, and others here.</p>
     </main>
   );
 }
